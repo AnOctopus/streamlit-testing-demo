@@ -1,0 +1,4 @@
+streamlit-nightly
+
+pyright
+pytest
